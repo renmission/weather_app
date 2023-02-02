@@ -1,0 +1,22 @@
+{
+  "weatherList": [
+    {
+      "cityName": "batangas",
+      "temp": 30,
+      "tempType": "°C",
+      "id": 1
+    },
+    {
+      "cityName": "lipa",
+      "temp": 20,
+      "tempType": "°C",
+      "id": 2
+    },
+    {
+      "cityName": "santotomas",
+      "temp": 10,
+      "tempType": "°C",
+      "id": 3
+    }
+  ]
+}
